@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-   "jest": {
+  "jest": {
     "setupTestFrameworkScriptFile": "./tests/setup.js",
     "testURL": "http://localhost/"
   },
@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.188.0",
+    "aws-sdk": "^2.776.0",
     "body-parser": "^1.17.2",
     "colors": "^1.4.0",
     "concurrently": "^3.5.0",

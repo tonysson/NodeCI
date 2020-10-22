@@ -4,5 +4,7 @@ module.exports = {
   googleClientSecret: '8mkniDQOqacXtlRD3gA4n2az',
   mongoURI: 'mongodb://teyi:zjvbcfZVNd50lwe4@cluster0-shard-00-00.7nait.mongodb.net:27017,cluster0-shard-00-01.7nait.mongodb.net:27017,cluster0-shard-00-02.7nait.mongodb.net:27017/blog?ssl=true&replicaSet=atlas-jkorts-shard-0&authSource=admin&retryWrites=true&w=majority',
   cookieKey: '123123123',
-  redisUrl : 'redis://127.0.0.1:6379'
+  redisUrl : 'redis://127.0.0.1:6379',
+  accessKeyId: 'AKIAXOYMZZWN6IV5IF6E',
+  secretAccessKey: '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'
 };
